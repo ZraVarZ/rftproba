@@ -14,6 +14,8 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { MatBadgeModule } from '@angular/material/badge';
 import { MatTableModule } from '@angular/material/table';
 import { ProfileComponent } from './components/profile/profile.component';
+import { FilterComponent } from './components/filter/filter.component';
+import { ProductComponent } from './components/product/product.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +25,9 @@ import { ProfileComponent } from './components/profile/profile.component';
     RegisterComponent,
     WelcomePageComponent,
     NavbarComponent,
-    ProfileComponent
+    ProfileComponent,
+    FilterComponent,
+    ProductComponent
   ],
   imports: [
     BrowserModule,

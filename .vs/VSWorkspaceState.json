@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\app-routing",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\filter",
+    "\\src\\app\\components\\home",
+    "\\src\\app\\components\\product",
+    "\\src\\app\\components\\welcome-page"
+  ],
+  "SelectedNode": "\\src\\app\\components\\product\\product.component.ts",
+  "PreviewInSolutionExplorer": false
+}

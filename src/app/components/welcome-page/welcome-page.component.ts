@@ -11,9 +11,10 @@ export class WelcomePageComponent implements OnInit {
   constructor(private router: Router) { }
 
   ngOnInit(): void {
-    setTimeout(() => {
+    this.router.navigate(['home']);
+   /* setTimeout(() => {
       this.router.navigate(['login']);
-  }, 3000);  //5s
+  }, 3000);  //5s*/
   }
 
 }

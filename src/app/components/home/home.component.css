@@ -1,3 +1,10 @@
 * {
-    background-color: cadetblue;
+    height: 0;
+    width: 0;
+}
+
+table, tr, td {
+    
+    
+    padding: 0;
 }

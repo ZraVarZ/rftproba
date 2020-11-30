@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'routing';
+  //title = 'routing';
 
   constructor(public authenticationService : AuthenticationService){
     
