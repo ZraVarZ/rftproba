@@ -28,3 +28,4 @@ let myObj = {
   "keszlet": 5,
   "nettoAr": 99990
 	}
+
