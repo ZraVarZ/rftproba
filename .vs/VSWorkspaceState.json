@@ -7,9 +7,10 @@
     "\\src\\app\\components",
     "\\src\\app\\components\\filter",
     "\\src\\app\\components\\home",
+    "\\src\\app\\components\\navbar",
     "\\src\\app\\components\\product",
-    "\\src\\app\\components\\welcome-page"
+    "\\src\\app\\localdata"
   ],
-  "SelectedNode": "\\src\\app\\components\\product\\product.component.ts",
+  "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
